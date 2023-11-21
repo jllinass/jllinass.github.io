@@ -1,3 +1,3 @@
-Anem a veure els meus [apunts de processos](Processos/01%CC%A3_Introduccio.md)
+Anem a veure els meus [apunts de processos](Processos/02_Que_son_els_processos.md)
 
 Tornem a la [pàgina principal](../README.md)
